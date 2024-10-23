@@ -27,3 +27,13 @@ To run the KIDSLIFE app on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rokzz12/KidsLife.git
+   
+2. Navigate to the project directory:
+    ```bash
+    cd KidsLife
+3. Install Love2D if you haven't already. You can download it from Love2D's official website. 🌐
+4. Open the project using Love2D:
+   ```bash
+   love .
+# Usage 📚
+Once the app is running, select a game appropriate for your child's age and let them explore the interactive learning experience! 🎈
